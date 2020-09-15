@@ -1,0 +1,29 @@
+{
+     "details":[{
+          "card":{
+          	"name":"Jayaram",
+          	"email":"bhavana.kanuri895@gmail.com",
+          	"mobile":9492979492,
+               "designation":"Frontend developer"
+          },
+          "cobj":"To work for the growth of the compaany and to other challenging position in a well established organisation which provides a opportunities to showcase my skills and enhance my skills.",
+          "ed":["Pursuing B-TECH(CSE) with 9.0 CGPA from RGUKT,Nuzvid ","Completed Pre University Course with 8.88 CGPA from RGUKT,Nuzvid","Completed SSC with 9.8 CGPA from RGUKT,Nuzvid"],
+          "ts":["c,python,java"," html,css,javascript,reactjs"," Zorin,Windows10"],
+          "aw":["Earned excellence award for school subject-based","Earned award for high class rank during schooling"],
+          "achm":["Participated in Techzite and got Certificate","Participated and won prizes during schooling"]
+		},
+		{
+			"card":{
+          	"name":"kesava",
+          	"email":"kesava.kanuri895@gmail.com",
+          	"mobile":9492458492,
+               "designation":"Backend developer"
+          },
+          "cobj":"To work for the growth of the compaany and to other challenging position in a well established organisation which provides a opportunities to showcase my skills and enhance my skills.",
+          "ed":["Pursuing B-TECH(CSE) with 8.8 CGPA from RGUKT,Nuzvid ","Completed Pre University Course with 8.62 CGPA from RGUKT,Nuzvid","Completed SSC with 9.8 CGPA from RGUKT,Nuzvid"],
+          "ts":[" c,python,java"," html,css,javascript,reactjs"," Zorin,Windows10"],
+          "aw":["Earned excellence award for school subject-based","Earned award for high class rank during schooling"],
+          "achm":["Participated in Techzite and got Certificate","Participated and won prizes during schooling"]
+		}
+	]
+}

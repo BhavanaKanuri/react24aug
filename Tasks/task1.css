@@ -1,0 +1,366 @@
+.kesava{
+	border: 2px solid #bdc3c7;
+	border-style: dotted;
+	/*border-radius: 20%;*/
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align: center;
+	width:20%;
+	background: #2c3e50;
+}
+#add{
+	text-align: left;
+	padding-left: 12%;
+	color: #bdc3c7;
+}
+#res{
+	text-align: left;
+	padding-left: 12%;
+}
+#email{
+	word-wrap: break-word;
+}
+#ema{
+   text-transform: lowercase;
+   word-wrap: break-word;
+}
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #2c3e50;
+	color: #bdc3c7;
+}
+table,th,td{
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-wrap:  break-word;
+}
+	
+.jayaram{
+	border: 2px solid #2c3e50;
+	border-style: dotted;
+	/*border-radius: 20%;*/
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align:left;
+	width:70%;
+	background: #bdc3c7;
+}
+img{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 6px 5px #bdc3c7;
+}
+.bhavana{
+	display: flex;
+	flex-direction: row;
+	border: 2px solid #bdc3c7;
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-left-style: dashed;*/
+	border-style: dashed dotted dotted dashed;
+	justify-content: space-around;;
+	padding: 1%;
+	margin: 1%;
+	background: #141e30;
+    /*background-image: url('C:\Users\Jay\Downloads\rguktlogo.jpg');*/
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+.kesava{
+	border: 2px solid #bdc3c7;
+	border-style: dotted;
+	padding: 2%;
+	margin: 2%;
+	font-size: 20px;
+	text-align: center;
+	width:90%;
+	background: #2c3e50;
+}
+#add{
+	text-align: left;
+	padding-left: 12%;
+	color: #bdc3c7;
+}
+#res{
+	text-align: left;
+	padding-left: 12%;
+}
+#email{
+	word-wrap: break-word;
+}
+#ema{
+   text-transform: lowercase;
+   word-wrap: break-word;
+}
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #2c3e50;
+	color: #bdc3c7;
+}
+table,th,td{
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-wrap: break-word;
+}
+	
+.jayaram{
+	border: 2px solid #2c3e50;
+	border-style: dotted;
+	padding: 2%;
+	margin: 2%;
+	font-size: 20px;
+	text-align:left;
+	width:90%;
+	background: #bdc3c7;
+}
+img{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 6px 5px #bdc3c7;
+}
+.bhavana{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	border: 2px solid #bdc3c7;
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-left-style: dashed;*/
+	border-style: dashed dotted dotted dashed;
+	justify-content: space-around;;
+	padding: 1%;
+	margin: 1%;
+	background: #141e30;
+}
+}
+@media only screen and (min-width:481px) and (max-width:767px){
+.kesava{
+	border: 2px solid #bdc3c7;
+	border-style: dotted;
+	padding: 2%;
+	margin: 2%;
+	font-size: 20px;
+	text-align: center;
+	width:90%;
+	background: #2c3e50;
+}
+#add{
+	text-align: left;
+	padding-left: 12%;
+	color: #bdc3c7;
+}
+#res{
+	text-align: left;
+	padding-left: 12%;
+}
+#email{
+	word-wrap: break-word;
+}
+#ema{
+   text-transform: lowercase;
+   word-wrap: break-word;
+}
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #2c3e50;
+	color: #bdc3c7;
+}
+table,th,td{
+	/*border-collapse: collapse;*/
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-wrap: break-word;
+}
+	
+.jayaram{
+	border: 2px solid #2c3e50;
+	border-style: dotted;
+	padding: 2;
+	margin:2%;
+	font-size: 20px;
+	text-align:left;
+	width:90%;
+	background: #bdc3c7;
+}
+img{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 6px 5px #bdc3c7;
+}
+.bhavana{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	border: 2px solid #bdc3c7;
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-left-style: dashed;*/
+	border-style: dashed dotted dotted dashed;
+	justify-content: space-around;;
+	padding: 1%;
+	margin: 1%;
+	background: #141e30;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1024px){
+.kesava{
+	border: 2px solid #bdc3c7;
+	border-style: dotted;
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align: center;
+	width:20%;
+	background: #2c3e50;
+}
+#add{
+	text-align: left;
+	padding-left: 12%;
+	color: #bdc3c7;
+}
+#res{
+	text-align: left;
+	padding-left: 12%;
+}
+#email{
+	word-wrap: break-word;
+}
+#ema{
+   text-transform: lowercase;
+   word-wrap: break-word;
+}
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #2c3e50;
+	color: #bdc3c7;
+}
+table,td,th{
+	/*border-collapse: collapse;*/
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-wrap:  break-word;
+}
+	
+.jayaram{
+	border: 2px solid #2c3e50;
+	border-style: dotted;
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align:left;
+	width:70%;
+	background: #bdc3c7;
+}
+img{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 6px 5px #bdc3c7;
+}
+.bhavana{
+	display: flex;
+	flex-direction: row;
+	border: 2px solid #bdc3c7;
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-left-style: dashed;*/
+	border-style: dashed dotted dotted dashed;
+	justify-content: space-around;;
+	padding: 1%;
+	margin: 1%;
+	background: #141e30;
+}
+}
+@media only screen and (min-width:1025px) and (max-width:1280px){
+.kesava{
+	border: 2px solid #bdc3c7;
+	border-style: dotted;
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align: center;
+	width:20%;
+	background: #2c3e50;
+}
+#add{
+	text-align: left;
+	padding-left: 12%;
+	color: #bdc3c7;
+}
+#res{
+	text-align: left;
+	padding-left: 12%;
+}
+#email{
+	word-wrap: break-word;
+}
+#ema{
+   text-transform: lowercase;
+   word-wrap: break-word;
+}
+h3{
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #2c3e50;
+	color: #bdc3c7;
+}
+table,td,th{
+	/*border-collapse: collapse;*/
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+	
+.jayaram{
+	border: 2px solid #2c3e50;
+	border-style: dotted;
+	padding: 1%;
+	margin: 1%;
+	font-size: 20px;
+	text-align:left;
+	width:70%;
+	background: #bdc3c7;
+}
+img{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 6px 5px #bdc3c7;
+}
+.bhavana{
+	display: flex;
+	flex-direction: row;
+	border: 2px solid #bdc3c7;
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-left-style: dashed;*/
+	border-style: dashed dotted dotted dashed;
+	justify-content: space-around;;
+	padding: 1%;
+	margin: 1%;
+	background: #141e30;
+}	
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		//3 ways for creating object
+
+		//1-object literal
+		student={
+			id:525,
+			name:"surya",
+			branch:"cse",
+		}
+		document.writeln(student.id+" "+student.name+" "+student.branch);
+
+        //2
+		var student=new object();
+		student.id=542;
+		student.name="bhavana";
+		student.branch="cse";
+		document.writeln(student.id+" "+student.name+" "+student.branch);
+
+        //3 - by using constructor
+		function student(id,name,branch){
+			this.id=id;
+			this.name=name;
+			this.branch=branch;
+		}
+		s=new student(567,"kesava","cse");
+		document.writeln(s.id+" "+s.name+" "+s.branch);
+
+	</script>
+
+</body>
+</html>

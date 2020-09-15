@@ -1,0 +1,27 @@
+{
+	"details":{
+		"name":"bhavana",
+		"age":20,
+		"courses":["web desinging with Reactjs","python","data analysis"]
+	},
+	"trainers":[
+		{
+			"name":"K.BHavana",
+			"phone":888888888,
+			"email":"bhavana@rguktn.ac.in",
+			"address":"Guntur Dist,Pathipadu,547876"
+		},
+		{
+			"name":"K.kesava",
+			"phone":777777777,
+			"email":"kesava@rguktn.ac.in",
+			"address":"East dist,tuni,544678"
+
+		}
+	],
+	"tdata":{
+		"name":"j.jayaram",
+		"phone":66666666,
+		"email":"jayaram@rguktn.ac.in"
+	}
+}

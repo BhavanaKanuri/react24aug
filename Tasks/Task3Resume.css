@@ -1,0 +1,254 @@
+/*when u move mouse to the side of numbers then u will see a triangle.Click on that u will get code.*/
+#mainPage{
+	background-color: #596164;
+	text-align: center;
+	border:3px solid #868f96;
+	border-style: dotted;
+}
+h1{
+	color: #29323c;
+}
+img{
+	width: 70%;
+	border-radius: 10px;
+	padding: 2%;
+}
+.cards{
+	display: flex;
+}
+.cardData{
+	background-color: #29323c  ;
+    width: 20%;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 2%;
+    margin-right: auto;
+    font-size: 15px;
+    text-align: center;
+    border:2px solid #868f96;
+    border-style: dotted;
+    word-wrap: break-word;
+    border-radius: 10px;
+}
+.cardData>h2{
+	color:#868f96; 
+}
+.cardData>button{
+	margin-bottom:3%;
+	padding: 2%;
+	font-size: 15px;
+	background-color:#29323c;
+	color: #868f96;
+	box-shadow: 2px 2px 2px  #868f96;
+}
+.resumeData>h2{
+	background-color:#29323c;
+	text-transform: uppercase;
+	color: #868f96; 
+	font-size: 20px;
+}
+.resumeData{
+	/*background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);*/
+	background-color:  #868f96;
+    width: 70%;
+    padding-top: 0px;
+    font-size: 18px;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 2%;
+    text-align: left;
+    word-wrap: break-word;
+    border:2px solid #29323c;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+#mainPage{
+	background-color: #596164;
+	text-align: center;
+	border:3px solid #868f96;
+	border-style: dotted;
+}
+h1{
+	color: #29323c;
+}
+img{
+	width: 70%;
+	border-radius: 10px;
+	padding: 2%;
+}
+.cards{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.cardData{
+	background-color: #29323c  ;
+    width: 90%;
+    margin-top: 2%;
+    font-size: 15px;
+    text-align: center;
+    border:2px solid #868f96;
+    border-style: dotted;
+    word-wrap: break-word;
+    border-radius: 10px;
+}
+.cardData>h2{
+	color:#868f96; 
+}
+.cardData>button{
+	margin-bottom:3%;
+	padding: 2%;
+	font-size: 15px;
+	background-color:#29323c;
+	color: #868f96;
+	box-shadow: 2px 2px 2px  #868f96;
+}
+.resumeData>h2{
+	background-color:#29323c;
+	text-transform: uppercase;
+	color: #868f96; 
+	font-size: 20px;
+}
+.resumeData{
+	/*background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);*/
+	background-color:  #868f96;
+    width: 90%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    text-align: left;
+    word-wrap: break-word;
+    border:2px solid #29323c;
+    border-style: dotted;
+    border-radius: 10px;
+}
+}
+
+@media only screen and (min-width:481px) and (max-width:767px){
+#mainPage{
+	background-color: #596164;
+	text-align: center;
+	border:3px solid #868f96;
+	border-style: dotted;
+}
+h1{
+	color: #29323c;
+}
+img{
+	width: 70%;
+	border-radius: 10px;
+	padding: 2%;
+}
+.cards{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.cardData{
+	background-color: #29323c  ;
+    width: 90%;
+    margin: 2%;
+    font-size: 15px;
+    text-align: center;
+    border:2px solid #868f96;
+    border-style: dotted;
+    word-wrap: break-word;
+    border-radius: 10px;
+}
+.cardData>h2{
+	color:#868f96; 
+}
+.cardData>button{
+	margin-bottom:3%;
+	padding: 2%;
+	font-size: 15px;
+	background-color:#29323c;
+	color: #868f96;
+	box-shadow: 2px 2px 2px  #868f96;
+}
+.resumeData>h2{
+	background-color:#29323c;
+	text-transform: uppercase;
+	color: #868f96; 
+	font-size: 20px;
+}
+.resumeData{
+	/*background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);*/
+	background-color:  #868f96;
+    width: 90%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 18px;
+    text-align: left;
+    word-wrap: break-word;
+    border:2px solid #29323c;
+    border-style: dotted;
+    border-radius: 10px;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+#mainPage{
+	background-color: #596164;
+	text-align: center;
+	border:3px solid #868f96;
+	border-style: dotted;
+}
+h1{
+	color: #29323c;
+}
+img{
+	width: 70%;
+	border-radius: 10px;
+	padding: 2%;
+}
+.cards{
+	display: flex;
+}
+.cardData{
+	background-color: #29323c  ;
+    width: 20%;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 2%;
+    margin-right: auto;
+    font-size: 15px;
+    text-align: center;
+    border:2px solid #868f96;
+    border-style: dotted;
+    word-wrap: break-word;
+    border-radius: 10px;
+}
+.cardData>h2{
+	color:#868f96; 
+}
+.resumeData>h2{
+	background-color:#29323c;
+	text-transform: uppercase;
+	color: #868f96; 
+	font-size: 20px;
+}
+.resumeData{
+	/*background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);*/
+	background-color:  #868f96;
+    width: 70%;
+    padding-top: 0px;
+    font-size: 18px;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 2%;
+    text-align: left;
+    word-wrap: break-word;
+    border:2px solid #29323c;
+    border-style: dotted;
+    border-radius: 10px;
+}
+}
+

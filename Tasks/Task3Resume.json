@@ -1,0 +1,18 @@
+{
+	"cardData":
+    {
+		"name":"K.Jayaram",
+		"phone":9398939353,
+		"email":"jakkajayaram9999@gmail.com",
+		"address":"T.kothapalli.I.polavavram Mandal,East Godavari Dt,533220"
+	},
+    "resumeData":
+    {
+    	"co":"To work for the growth of the compaany and to other challenging position in a well established organisation which provides a opportunities to showcase my skills and enhance my skills.",
+    	"ed":["Pursuing B-TECH(CSE) with 9.0 CGPA from RGUKT,Nuzvid ","Completed Pre University Course with 8.88 CGPA from RGUKT,Nuzvid","Completed SSC with 9.8 CGPA from RGUKT,Nuzvid"],
+    	"ts":["Programming Languages: c,python,java","Web Technolohies: html,css,javascript,reactjs","Operating Systems: Zorin,Windows10"],
+        "pd":[" 3 months","Team Size: 4","Role Played: front end and Backend developer","Skills Used: java,xml","Helping Hands is one of the organization in RGUKT Nuzvid for helping the economically backwardpeople and those who are in need of help. We developend an android application to ease of allrelated activities in the orgranization."],
+        "ct":["Certification course in Web designing with Reactjs from APSSDC","Certification course in Core python from ExcelR"],
+        "achm":["Participated in Techzite and got Certificate","Participated and won prizes during schooling"]
+    }
+}
